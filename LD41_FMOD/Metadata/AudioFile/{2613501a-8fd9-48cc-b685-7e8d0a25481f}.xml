@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{2613501a-8fd9-48cc-b685-7e8d0a25481f}">
+        <property name="assetPath">
+            <value>LD41Nar_Soul1.ogg</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{d95b0d4e-0316-46e8-9b76-7e9e07e86f6e}</destination>
+        </relationship>
+    </object>
+</objects>

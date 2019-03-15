@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{4d02f0a4-da9f-4341-ae14-649615f50568}">
+        <property name="assetPath">
+            <value>Ambience Nature Field Windy 02.ogg</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>90.111333333333334</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{d95b0d4e-0316-46e8-9b76-7e9e07e86f6e}</destination>
+        </relationship>
+    </object>
+</objects>

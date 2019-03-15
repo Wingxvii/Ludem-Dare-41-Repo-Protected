@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{7eb04aae-1ecc-4d8f-89c4-a076a47bd738}">
+        <property name="assetPath">
+            <value>Non-talk1.ogg</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.25</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{d95b0d4e-0316-46e8-9b76-7e9e07e86f6e}</destination>
+        </relationship>
+    </object>
+</objects>
